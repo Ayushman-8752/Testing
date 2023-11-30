@@ -1,0 +1,7 @@
+function fn(){
+	console.log('X is the great');
+}
+
+function fn2(){
+	console.log('But Y is better than X');
+}
